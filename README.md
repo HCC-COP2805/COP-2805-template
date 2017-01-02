@@ -1,7 +1,7 @@
 COP2805 - Repo for class Project #2
 ===============
 
-Repository for HCC COP-2805 (Java II) Class Projects
+Repository for HCC COP-2805 (Java II) Class Project 2
 
 Notes:
 ------
